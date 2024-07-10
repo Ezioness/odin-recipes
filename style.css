@@ -1,0 +1,24 @@
+h1 {
+    background-color: burlywood;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 24px;
+}
+.recipe-list {
+    font-size: 34px;
+}
+
+.img-container {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 750px;
+}
